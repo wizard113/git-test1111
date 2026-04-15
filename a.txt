@@ -1,2 +1,3 @@
 1: create file a.txt
 2: git
+3: main rebase conflict test
